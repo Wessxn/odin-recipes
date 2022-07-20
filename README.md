@@ -1,0 +1,1 @@
+This is the first version of the recipe I'm creating for the odin project. W.I.P
